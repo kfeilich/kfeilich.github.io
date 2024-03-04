@@ -98,18 +98,21 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Python
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: python
+      - name: Experimental Design
+        percent: 80
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
