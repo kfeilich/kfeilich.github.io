@@ -101,7 +101,8 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: devicon-devicon-plain/r
+        icon: r
+        icon-pack: devicon
       - name: Data Science
         description: ''
         percent: 100
