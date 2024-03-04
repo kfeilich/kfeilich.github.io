@@ -9,10 +9,10 @@ design:
 
 # Page sections
 sections:
-  - block: research
+  - block: projects
     content:
-      title: Selected Research
-      text: Here are a selection of research projects that I have worked on over the years.
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
         - title: Pandas
