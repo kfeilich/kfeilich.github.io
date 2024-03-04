@@ -167,14 +167,15 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
+## My name is Kara Feilich
 
-I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
+I am a former comparative evolutionary biologist who entered the world of government consulting. I use my extensive analytical toolkit to improve health outcomes for Veterans.
 
-My research interests include:
+My interests include:
 
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Comparative Biomechanics
+- Ecophysiology
+- Biogeography
+- Social Determinants of Health
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
+I am also available for consulting on experimental design and data analysis, and enjoy helping out my former academic friends and colleagues.
