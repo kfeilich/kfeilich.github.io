@@ -90,19 +90,19 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 90
+        percent: ''
         icon: r
         # icon-pack: devicon
       - name: Data Science
         description: ''
-        percent: 100
+        percent: ''
         icon: chart-bar
       - name: Python
         description: ''
-        percent: 40
+        percent: ''
         icon: python
       - name: Experimental Design
-        percent: 80
+        percent: ''
         icon: 
   - name: Hobbies
     color: '#eeac02'
@@ -110,15 +110,15 @@ skills:
     items:
       - name: Fiber Arts
         description: ''
-        # percent: 60
+        percent: ''
         # icon: person-simple-walk
       - name: Figure Drawing
         description: ''
-        percent: 20
+        percent: ''
         # icon: cat
       - name: Reading
         description: ''
-        percent: 100
+        percent: ''
         # icon: camera
 
 # languages:
