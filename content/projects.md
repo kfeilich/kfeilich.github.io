@@ -17,7 +17,7 @@ sections:
       items:
         - title: Cichlid Morphological Evolution
           description: Cichlid fin and body shapes have changed together overtime in ways consistent with hypotheses of locomotor specialization. Using x-ray radiography, I measured fin and body shape geometries across the lineage of cichlids to determine how this anatomy has changed over time. 
-          image: morphospace_landmarks.png
+          image: morphospace_landmarks_crop.png
           # url: https://github.com/pandas-dev/pandas
         - title: Defining Fish Swimming Gaits
           description: Unlike humans, fishes use more than two limbs to get around--they use multiple fins and their bodies. This makes it difficult to compare the different ways they propel themselves through the water. I adapted methods applied to four-legged animals to create an approach for comparing steady swimming across fishes that use multiple propulsors. 
