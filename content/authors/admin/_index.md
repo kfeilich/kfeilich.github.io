@@ -121,9 +121,9 @@ skills:
         percent: 100
         # icon: camera
 
-# languages:
-#   - name: English
-#    percent: 100
+languages:
+  - name: 
+   percent:
   # - name: Chinese
   #   percent: 75
   # - name: Portuguese
